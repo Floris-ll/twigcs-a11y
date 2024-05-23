@@ -1,5 +1,5 @@
 {
-    "name": "nielsdeblaauw/twigcs-a11y",
+    "name": "floris-ll/twigcs-a11y",
     "description": "Accessibility rules for TwigCS",
     "type": "library",
     "require": {
